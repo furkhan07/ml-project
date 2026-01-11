@@ -18,14 +18,14 @@ To build a strong foundation in Machine Learning through practice and real imple
 
 🛠 Tools & Libraries
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-SciPy
-Statsmodels
-MLflow (experiment tracking – basics)
-XGBoost / LightGBM (introductory usage)
-TensorFlow / Keras (basic exposure)
+Python  
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+Scikit-learn  
+SciPy  
+Statsmodels  
+MLflow (experiment tracking – basics)  
+XGBoost / LightGBM (introductory usage)  
+TensorFlow / Keras (basic exposure)  
